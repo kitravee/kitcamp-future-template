@@ -1,5 +1,6 @@
 # kitcamp-future-template
 This template reference from https://startbootstrap.com/themes/agency
+I try to modify the header section to be the Video (Web view) and Picture (Mobile view).
 
 <h2 align="center">
   <img src="https://github.com/kitravee/kitcamp-future-template/blob/master/assets/img/demo.gif" alt="Look up!" width="600px" />
